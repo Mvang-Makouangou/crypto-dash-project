@@ -5,7 +5,7 @@ const CoinCard = ({coin}) => {
                 <img src={coin.image} alt={coin.name} className="coin-image"/>
                 <div>
                   <h2>{coin.name}</h2>
-                  <p className="symbol">{coin.symbol.toUpperCase}</p>
+                  <p className="symbol">{coin.symbol.toUpperCase}</p>               
                 </div>
               </div>
               <p>Price: ${coin.current_price.toLocaleString()}</p>
