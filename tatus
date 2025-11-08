@@ -1,0 +1,41 @@
+[33mcommit 60dc3435394f4c95119bc28eda430b3edb795b2b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/SortOrder[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: David Mvang <makouangoudavid@gmail.com>
+Date:   Sat Nov 8 16:02:29 2025 +0100
+
+    Filter Coins - Fixes #11
+
+[33mcommit 4ee01d205dd70998fbe901b9fdf75e477e2ba65d[m
+Author: David Mvang <makouangoudavid@gmail.com>
+Date:   Sat Nov 8 00:22:45 2025 +0100
+
+    Limit Selector - Fixes #9
+
+[33mcommit 24a7dee4b5f0cd2687b7cd44f1ed5d916f6fa638[m
+Author: David Mvang <makouangoudavid@gmail.com>
+Date:   Fri Nov 7 23:46:48 2025 +0100
+
+    Environment Variables - Fixes #7
+
+[33mcommit 68b6c15250b805b10119a16d32eff8f86f6907eb[m
+Author: David Mvang <makouangoudavid@gmail.com>
+Date:   Thu Nov 6 23:19:15 2025 +0100
+
+    Display coin data - Fixes #5
+
+[33mcommit 78415f001e84a26548eeaaf6f52a2666ef07f717[m
+Author: David Mvang <makouangoudavid@gmail.com>
+Date:   Thu Nov 6 22:33:25 2025 +0100
+
+    Async/Await in useEffect - Fixes #3
+
+[33mcommit d47c3c1ac67e2e50cd417d59514dc953b8b40881[m
+Author: David Mvang <makouangoudavid@gmail.com>
+Date:   Thu Nov 6 21:40:39 2025 +0100
+
+    Making HTTP Requests - Fixes #1
+
+[33mcommit 89c2d4e8fbe09f2f4944e3e3c3a319ccc8fa5adc[m
+Author: David Mvang <makouangoudavid@gmail.com>
+Date:   Mon Nov 3 22:50:31 2025 +0100
+
+    First Commit
