@@ -16,6 +16,6 @@ const SortSelector = ({sortBy, onSortChange}) => {
             </select>
         </div>
      );
-}
+} 
  
 export default SortSelector;
