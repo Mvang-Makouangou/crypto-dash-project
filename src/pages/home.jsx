@@ -42,7 +42,7 @@ const HomePage = ({
 
     return (
         <div>
-            <h1>🚀 Crypto Dash</h1>
+            <h1>🚀 Crypto Dash <span>With David Mvang</span></h1>
             {loading && <Spinner color="color" />}
             {error && <div className="error">{error}</div>}
 
